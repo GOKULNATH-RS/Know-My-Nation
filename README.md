@@ -1,4 +1,4 @@
-[**KNOW-MY-NATION**](https://knowmynation.netlify.app/)
+[**Live**](https://knowmynation.netlify.app/)
 
 ![KnowMyNation](https://i.ibb.co/DwS5TmP/projects-knowmynation.png)
 
